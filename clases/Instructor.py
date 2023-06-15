@@ -1,4 +1,4 @@
-from claseUno import *
+from Persona import *
 
 class Instructor(Persona):
     def __init__(self, profesion, especicalidad, cargo, salario_basico, id, codigo, nombre, direccion, telefono):

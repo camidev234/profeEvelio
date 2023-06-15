@@ -1,5 +1,5 @@
-from classDos import *
-from claseTres import *
+from Instructor import *
+from Coordinador import *
 
 
 o = Instructor("Ing de software", "Desarrollo Movil", "Desarrollador Sr", 80000000, 1, 100, "Camilo", 1000000, 30031230618)
