@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form {
+    background-color: #eee;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+form input {
+    width: 50%;
+    height: 30px;
+    outline: none;
+}
+
+form .enviar {
+    background-color: #2193b0;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
